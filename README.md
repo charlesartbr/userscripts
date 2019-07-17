@@ -8,3 +8,7 @@ Adiciona funcionalidades ao Technicolor Router Manager: auto-login; informação
 ## Publi Manager
 Adiciona funcionalidades ao PubliManager web  
 [publi-manager.userscript.js](publi-manager.userscript.js)
+
+## HostGator
+Adiciona funcionalidades ao painel do HostGator
+[hostgator-panel.userscript.js](hostgator-panel.userscript.js)
