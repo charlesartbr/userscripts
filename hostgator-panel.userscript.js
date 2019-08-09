@@ -33,8 +33,8 @@
       
       $('#primary_domain option').each(function(i, item) {
         if (i > 0) {
-          $(item).val(domains[i].value);
-          $(item).text(domains[i].text);
+          $(item).val(domains[i + 1].value);
+          $(item).text(domains[i + 1].text);
         }
       });
 
